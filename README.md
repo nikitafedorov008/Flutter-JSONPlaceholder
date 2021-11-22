@@ -10,6 +10,8 @@ Flutter app example of using fake REST API.
 - photos
 - todos
 
+Saving data to cache is implemented using SharedPreferences
+
 ## Android Screenshots
 
 User page posts section
